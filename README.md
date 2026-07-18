@@ -95,7 +95,7 @@ Main Columns:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Movie_Data_Analysis.git
+git clone https://github.com/aaftab10/Movie_Data_Analysis.git
 ```
 
 Move into the project directory
@@ -165,6 +165,6 @@ python final_dashboard.py
 
 Aaftab Husain
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/aaftab.07
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/aaftab10
