@@ -165,7 +165,7 @@ The interactive dashboard that include
 
 ## Dashboard Preview
   Uploaded a clean Dashboard for preview
-  powerbi/Movies_Analytics_Dashboard.jpg
+  [powerbi/Movies_Analytics_Dashboard.jpg](https://github.com/Aaftab10/Movies_Data_Analysis/blob/main/powerbi/Movies_Analytics_Dashboard.jpg))
 
 ---
 
