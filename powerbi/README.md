@@ -5,7 +5,7 @@ An interactive Power BI dashboard built to explore and analyze the movie dataset
 
 ### Dashboard Preview
 
-![Movies Analytics Dashboard](images/Movies_Analytics_Dashboard.jpg)
+![Movies Analytics Dashboard](https://github.com/Aaftab10/Movies_Data_Analysis/blob/main/powerbi/Movies_Analytics_Dashboard.jpg)
 
 ### Key Features
 
