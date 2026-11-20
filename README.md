@@ -164,7 +164,8 @@ The interactive dashboard that include
 - Reset Filters button using bookmarks
 
 ## Dashboard Preview
-  Upload a clean Dashboard for preview
+  Uploaded a clean Dashboard for preview
+  powerbi/Movies_Analytics_Dashboard.jpg
 
 ---
 
